@@ -1,1 +1,1 @@
-# react-dashboard
+# Treasure Trove Dashboard
